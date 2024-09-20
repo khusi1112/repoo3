@@ -1,0 +1,17 @@
+body{
+    font-family: "Manrope", sans-serif;
+
+}
+.alll{
+    background-color: blueviolet;
+}
+.all{
+    font-weight: 600;
+    font-size: 30px;
+    color: brown;
+}
+.para{
+    font-weight: 600;
+    font-size: 30px;
+    color: chartreuse;
+}
